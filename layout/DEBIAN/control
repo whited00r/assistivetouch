@@ -1,0 +1,9 @@
+Package: com.whited00r.assistivetouch
+Name: AssistiveTouch
+Depends: mobilesubstrate
+Version: 0.0.1-1
+Architecture: iphoneos-arm
+Description: An awesome MobileSubstrate tweak!
+Maintainer: Whited00r
+Author: Whited00r
+Section: Tweaks
